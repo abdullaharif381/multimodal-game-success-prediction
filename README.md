@@ -1,1 +1,1 @@
-# multimodal-game-success-prediction
+# Multimodal Game Success Predictor
