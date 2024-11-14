@@ -1,0 +1,61 @@
+2024-11-14 17:31:53,804 - INFO - Starting batch 12 with 1000 apps.
+2024-11-14 17:49:19,087 - INFO - Batch 12 saved successfully to scraped_data_1\steam_games_data_batch_12.csv
+2024-11-14 17:49:19,098 - INFO - Completed processing batch 12
+2024-11-14 17:49:19,099 - INFO - Pausing for 5 seconds before the next batch.
+2024-11-14 17:49:25,500 - INFO - Starting batch 13 with 1000 apps.
+2024-11-14 17:52:07,195 - ERROR - Error processing app ID 2611700: 
+2024-11-14 17:52:07,623 - ERROR - Error processing app ID 2611750: 
+2024-11-14 17:52:10,496 - ERROR - Error processing app ID 2611800: 
+2024-11-14 17:52:10,778 - ERROR - Error processing app ID 2611780: 
+2024-11-14 17:52:11,104 - ERROR - Error processing app ID 2611790: 
+2024-11-14 17:52:13,017 - ERROR - Error processing app ID 2611820: 
+2024-11-14 17:52:13,027 - ERROR - Error processing app ID 2611850: 
+2024-11-14 17:52:13,701 - ERROR - Error processing app ID 2611810: 
+2024-11-14 17:52:16,316 - ERROR - Error processing app ID 2611860: 
+2024-11-14 17:52:17,137 - ERROR - Error processing app ID 2611870: 
+2024-11-14 17:52:18,184 - ERROR - Error processing app ID 2611880: 
+2024-11-14 17:52:18,190 - ERROR - Error processing app ID 2611890: 
+2024-11-14 17:52:19,467 - ERROR - Error processing app ID 2610920: 
+2024-11-14 17:52:19,519 - ERROR - Error processing app ID 2610930: 
+2024-11-14 17:52:19,563 - ERROR - Error processing app ID 2611930: 
+2024-11-14 17:52:21,776 - ERROR - Error processing app ID 2610970: 
+2024-11-14 17:52:22,054 - ERROR - Error processing app ID 2610980: 
+2024-11-14 17:52:22,469 - ERROR - Error processing app ID 2610960: 
+2024-11-14 17:52:22,964 - ERROR - Error processing app ID 2610990: 
+2024-11-14 17:52:45,164 - ERROR - Error processing app ID 2611230: 
+2024-11-14 17:52:48,136 - ERROR - Error processing app ID 2611240: 
+2024-11-14 17:52:48,166 - ERROR - Error processing app ID 2611250: 
+2024-11-14 17:52:48,228 - ERROR - Error processing app ID 2611260: 
+2024-11-14 17:53:02,659 - ERROR - Error processing app ID 2610450: 
+2024-11-14 17:53:04,565 - ERROR - Error processing app ID 2610460: 
+2024-11-14 17:53:05,454 - ERROR - Error processing app ID 2610470: 
+2024-11-14 17:53:05,463 - ERROR - Error processing app ID 2610500: 
+2024-11-14 17:53:07,616 - ERROR - Error processing app ID 2610530: 
+2024-11-14 17:53:08,449 - ERROR - Error processing app ID 2610590: 
+2024-11-14 17:53:08,916 - ERROR - Error processing app ID 2610540: 
+2024-11-14 17:53:09,040 - ERROR - Error processing app ID 2610580: 
+2024-11-14 17:53:12,007 - ERROR - Error processing app ID 2610600: 
+2024-11-14 17:53:12,316 - ERROR - Error processing app ID 2610630: 
+2024-11-14 17:53:12,733 - ERROR - Error processing app ID 2610640: 
+2024-11-14 17:53:12,938 - ERROR - Error processing app ID 2610610: 
+2024-11-14 17:53:15,682 - ERROR - Error processing app ID 2610650: 
+2024-11-14 18:03:57,241 - INFO - Starting batch 13 with 1000 apps.
+2024-11-14 18:21:53,182 - INFO - Batch 13 saved successfully to scraped_data_1\steam_games_data_batch_13.csv
+2024-11-14 18:21:53,191 - INFO - Completed processing batch 13
+2024-11-14 18:21:53,192 - INFO - Pausing for 2 seconds before the next batch.
+2024-11-14 18:21:55,859 - INFO - Starting batch 14 with 1000 apps.
+2024-11-14 18:50:38,228 - INFO - Starting batch 14 with 1000 apps.
+2024-11-14 18:59:55,773 - INFO - Starting batch 14 with 1000 apps.
+2024-11-14 19:18:31,805 - INFO - Batch 14 saved successfully to scraped_data_1\steam_games_data_batch_14.csv
+2024-11-14 19:18:31,805 - INFO - Completed processing batch 14
+2024-11-14 19:18:31,805 - INFO - Pausing for 5 seconds before the next batch.
+2024-11-14 19:18:37,550 - INFO - Starting batch 15 with 1000 apps.
+2024-11-14 19:20:30,760 - ERROR - Error processing app ID 2833070: 
+2024-11-14 19:21:14,574 - ERROR - Error processing app ID 2832630: 
+2024-11-14 19:28:23,671 - INFO - Starting batch 15 with 1000 apps.
+2024-11-14 19:30:00,381 - ERROR - Error processing app ID 2834950: 'NoneType' object has no attribute 'select'
+2024-11-14 19:30:09,671 - ERROR - Error processing app ID 2833970: 'NoneType' object has no attribute 'select'
+2024-11-14 19:45:30,121 - INFO - Batch 15 saved successfully to scraped_data_1\steam_games_data_batch_15.csv
+2024-11-14 19:45:30,121 - INFO - Completed processing batch 15
+2024-11-14 19:45:30,121 - INFO - Pausing for 5 seconds before the next batch.
+2024-11-14 19:45:35,153 - INFO - Starting batch 16 with 1000 apps.
