@@ -59,3 +59,34 @@
 2024-11-14 19:45:30,121 - INFO - Completed processing batch 15
 2024-11-14 19:45:30,121 - INFO - Pausing for 5 seconds before the next batch.
 2024-11-14 19:45:35,153 - INFO - Starting batch 16 with 1000 apps.
+2024-11-15 00:00:11,841 - INFO - Starting batch 16 with 1000 apps.
+2024-11-15 00:01:49,502 - ERROR - Error processing app ID 2632300: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:00,756 - ERROR - Error processing app ID 2632310: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:03,031 - ERROR - Error processing app ID 2632350: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:03,576 - ERROR - Error processing app ID 2632360: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:10,183 - ERROR - Error processing app ID 2632450: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:10,289 - ERROR - Error processing app ID 2632430: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:14,101 - ERROR - Error processing app ID 2632330: 'NoneType' object has no attribute 'select'
+2024-11-15 00:02:21,873 - ERROR - Error processing app ID 2632500: 'NoneType' object has no attribute 'select'
+2024-11-15 00:10:14,094 - ERROR - Error processing app ID 2625680: 'NoneType' object has no attribute 'select'
+2024-11-15 00:16:55,519 - ERROR - Error processing app ID 2620200: 'NoneType' object has no attribute 'select'
+2024-11-15 00:18:47,796 - INFO - Batch 16 saved successfully to scraped_data_1\steam_games_data_batch_16.csv
+2024-11-15 00:18:47,797 - INFO - Completed processing batch 16
+2024-11-15 00:18:47,797 - INFO - Pausing for 5 seconds before the next batch.
+2024-11-15 00:18:52,839 - INFO - Starting batch 17 with 1000 apps.
+2024-11-15 00:22:24,789 - ERROR - Error processing app ID 2615830: 
+2024-11-15 00:22:25,617 - ERROR - Error processing app ID 2615840: 
+2024-11-15 00:22:27,260 - ERROR - Error processing app ID 2615900: 
+2024-11-15 00:22:29,052 - ERROR - Error processing app ID 2615930: 
+2024-11-15 00:22:29,967 - ERROR - Error processing app ID 2615940: 
+2024-11-15 00:22:31,174 - ERROR - Error processing app ID 2615950: 
+2024-11-15 00:22:32,303 - ERROR - Error processing app ID 2614970: 
+2024-11-15 00:22:32,681 - ERROR - Error processing app ID 2614980: 
+2024-11-15 00:22:32,934 - ERROR - Error processing app ID 2614960: 
+2024-11-15 00:22:33,948 - ERROR - Error processing app ID 2615000: 
+2024-11-15 05:33:51,222 - INFO - Starting batch 17 with 1000 apps.
+2024-11-15 05:39:28,612 - ERROR - Error processing app ID 3002490: 'NoneType' object has no attribute 'select'
+2024-11-15 05:41:02,520 - ERROR - Error processing app ID 3000870: 'NoneType' object has no attribute 'select'
+2024-11-15 05:43:38,332 - ERROR - Error processing app ID 2998600: 'NoneType' object has no attribute 'select'
+2024-11-15 05:43:38,593 - ERROR - Error processing app ID 2998590: 'NoneType' object has no attribute 'select'
+2024-11-15 05:43:43,370 - ERROR - Error processing app ID 2998650: 'NoneType' object has no attribute 'select'
